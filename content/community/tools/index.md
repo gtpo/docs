@@ -2,7 +2,7 @@
 title: "Tools"
 ---
 
-These pages provide more information on the various tools available to the Mendix Community:
+These pages provide more information on the tools available to the Mendix Community:
 
 * [The Community Site](the-community-site)
 * [How to Set Up Your Community Profile](how-to-set-up-your-profile)
